@@ -1,0 +1,5 @@
+binary_alternation
+calendar_arithmetic
+largest_island
+spell_backward
+string_manipulation

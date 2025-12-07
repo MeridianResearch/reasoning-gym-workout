@@ -1,0 +1,5 @@
+binary_alternation                -                           -                         96.63/1158  9119c,1863t        -                       
+calendar_arithmetic               -                           -                         97.13/941  4762c, 951t        -                       
+largest_island                    -                           -                         95.28/127  4603c,1043t        -                       
+spell_backward                    -                           -                         60.02/2724  2711c, 607t        -                       
+string_manipulation               -                           -                         93.85/309 10590c,2041t        -                       
