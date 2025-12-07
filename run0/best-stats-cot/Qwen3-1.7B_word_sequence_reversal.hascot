@@ -1,0 +1,7 @@
+SUMMARY STATISTICS
+Total samples: 100
+Correct answers: 46
+Accuracy: 46.00%
+Samples with CoT: 100 (100.00%)
+CoT length: 1230
+CoT words: 223.28
